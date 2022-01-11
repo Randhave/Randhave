@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Java , Python                                                                                                                                           
 💞️ I’m looking to collaborate on New Projects with New People                                                                                                                     
 📫 Reach me at https://randhave.github.io/randhaveAniket/
+📫 I also spend sometime on this portal https://www.hackerrank.com/anikerandhave?hr_r=1
+                                         https://auth.geeksforgeeks.org/user/aniketrandhave34/profile
